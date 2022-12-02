@@ -44,7 +44,10 @@ Markdown format:
 * [SBUCaptionedPhotoDataset](http://www.cs.virginia.edu/~vicente/sbucaptions/), LANG: `English`.
 * [IAPR TC-12](https://www.imageclef.org/photodata), LANG: `English, German and Spanish`.
 
+## Popular Implementations
 
+- [MMF](https://github.com/facebookresearch/mmf)
+- [OMML](https://github.com/njustkmg/OMML)
 
 ## Licenses
 

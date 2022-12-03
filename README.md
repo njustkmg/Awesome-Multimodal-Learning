@@ -8,7 +8,7 @@
 A curated list of Multimodal learning and related area. :-)
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/njustkmg/Awesome-Multimodal-Learning/pulls) or email (yangynjust@gmail.com) to add links.
+Please feel free to send me [pull requests](https://github.com/njustkmg/Awesome-Multimodal-Learning/pulls) or email (xuan_zhang@njust.edu.cn) to add links.
 Markdown format:
 
 ```markdown

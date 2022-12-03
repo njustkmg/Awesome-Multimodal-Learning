@@ -237,7 +237,6 @@ Markdown format:
 
 - [Nice perfume. How long did you marinate in it? Multimodal Sarcasm Explanation](https://arxiv.org/pdf/2112.04873v1.pdf) - Poorav Desai et al,`AAAI 2022`[[code]](https://github.com/lcs2-iiitd/multimodal-sarcasm-explanation-muse) 
 - [MuMuQA: Multimedia Multi-Hop News Question Answering via Cross-Media Knowledge Extraction and Grounding](https://arxiv.org/pdf/2112.10728v2.pdf) - Revanth Gangi Reddy et al,`AAAI 2022`[[code]](https://github.com/blender-nlp/MuMuQA) 
-- 
 
 ## Dataset
 * [nocaps](https://nocaps.org/), LANG: `English`
